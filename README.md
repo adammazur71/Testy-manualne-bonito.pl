@@ -2,21 +2,42 @@
 Repozytorium zawiera pliki związane z testami manualnymi strony bonito.pl
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+Highly motivated individual with over 10 years of experience in different
+environments. Possessing proved abilities in various IT fields such as
+software testing, backend and frontend. Used to work under pressure in
+dynamically changing conditions. Fast learner and a true team player.
+Hungry to learn new technologies and to gain new skills. Always tries to meet
+the requirements and deliver possibly best results.
 ## TOOLS
 * Jira
 * TestLink
 * GitHub
 ## TECH SKIILS
+* CREATING TEST SCENARIOS AND TEST CASES
+* JAVA
+* HTML, CSS
+* GIT, GITLAB
+* SQL
+* POSTMAN
+* MAVEN
+* DOCKER
+* INTEGRATION TESTS, UNIT TESTS, MOCKITO, WIREMOCK, JUNIT
+* TEST AUTOMATION BASICS
+* LINUX BASICS
 * Software testing
 * Creating test cases
 * Reporting bugs
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 27.01.2024
+ISTQB FL
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* JAVA FOR TESTERS
+* SPRING READY
+* KURSGITA.PL
+* SQL SERVER – TRANSACTIONS
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
@@ -26,12 +47,9 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-## MY TEST CASE EXAMPLES
-
-## MY TEST CASE EXAMPLES FOR 
+## MY TEST CASE EXAMPLES FOR BONITO.PL
 * [Test cases](https://drive.google.com/file/d/1pjzcjVaDgoQO13F5glgHgScw6KddeXYB/view?usp=sharing)
-## MY BUGS
-## MY BUGS FOR 
+## MY BUGS FOR BONITO.PL
 * [Niepoprawna walidacja pola zmiany ilości produktów w koszyku podczas wpisania innego znaku, niż liczba](https://docs.google.com/document/d/1mB6w65FkeUgINwka1ED_U65Yv3pkzyDv/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
 * [Niepoprawna walidacja pola zmiany ilości produktów w koszyku przy podaniu wartości ujemnej](https://docs.google.com/document/d/145-ouDxV82ODUAmIWUJ7NF5YRetnApK0/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
 * [Wymagalność pól w formularzu adresu - brak wymagalności pola "Telefon"](https://docs.google.com/document/d/1Giu8HMUBMC-aBrW89RwzHJiQFXDeIViT/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
@@ -56,7 +74,6 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * [Formularz do zmiany hasła w profilu użytkownika przyjmuje słabe hasło](https://docs.google.com/document/d/12mx4l90PHb4HkmwzH6B1lq7zWTspfvc-/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
 * [Formularz do zmiany hasła przez reset hasła przyjmuje słabe hasło](https://docs.google.com/document/d/1Eb1yg8dVdfkBxYWY6TzX5-5dbeI3Tvxi/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
 * [Formularz do zmiany hasła przez reset hasła nie zamyka się po zmianie hasła](https://docs.google.com/document/d/1E83PT6xqY8EwtuOVi1-RpdlcEw2r_Jtw/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
-## MY REPORT
-## MY REPORT FOR 
+## MY REPORT FOR BONITO.LP
 * [Report PDF](https://drive.google.com/file/d/1xoDG-_XmZR9golFspD_s-3CAuhssPypq/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/13nK6m9SnBxYkWBmM1Z6Y5ruKFRDmkkoC/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
