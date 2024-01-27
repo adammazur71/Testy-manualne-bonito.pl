@@ -1,4 +1,4 @@
-# Testy-manualne-bonito.pl
+# Testy manualne bonito.pl
 Repozytorium zawiera pliki związane z testami manualnymi strony bonito.pl
 # PORTFOLIO
 ## ABOUT ME
