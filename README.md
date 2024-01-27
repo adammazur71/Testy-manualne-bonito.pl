@@ -13,7 +13,9 @@ the requirements and deliver possibly best results.
 * TestLink
 * GitHub
 ## TECH SKIILS
+* SOFTWARE TESTING
 * CREATING TEST SCENARIOS AND TEST CASES
+* REPORTING BUGS
 * JAVA
 * HTML, CSS
 * GIT, GITLAB
@@ -24,9 +26,6 @@ the requirements and deliver possibly best results.
 * INTEGRATION TESTS, UNIT TESTS, MOCKITO, WIREMOCK, JUNIT
 * TEST AUTOMATION BASICS
 * LINUX BASICS
-* Software testing
-* Creating test cases
-* Reporting bugs
 * SQL
 * SCRUM
 ## CERTIFICATES
