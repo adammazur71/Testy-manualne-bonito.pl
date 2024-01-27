@@ -29,8 +29,8 @@ the requirements and deliver possibly best results.
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 27.01.2024
-ISTQB FL
+* Szkolenie Indywidualne tester manualny 27.01.2024
+* ISTQB FL
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * JAVA FOR TESTERS
