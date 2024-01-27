@@ -14,18 +14,18 @@ the requirements and deliver possibly best results.
 * GitHub
 * Docker
 * Maven
-* POSTMAN
-* LINUX BASICS
+* Postman
+* LINUX basics
 ## TECH SKIILS
-* SOFTWARE TESTING
-* CREATING TEST SCENARIOS AND TEST CASES
-* REPORTING BUGS
+* Software Testing
+* Creating Test Scenarios And Test Cases
+* Reporting Bugs
 * JAVA
 * HTML, CSS
 * GIT, GITLAB
 * SQL
-* INTEGRATION TESTS, UNIT TESTS, MOCKITO, WIREMOCK, JUNIT
-* TEST AUTOMATION BASICS
+* Integration Test, Unit Tests, Mockito, Wiremock, JUNIT
+* Test Automation basics
 * SQL
 * SCRUM
 ## CERTIFICATES
@@ -33,10 +33,10 @@ the requirements and deliver possibly best results.
 * ISTQB FL
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
-* JAVA FOR TESTERS
-* SPRING READY
-* KURSGITA.PL
-* SQL SERVER – TRANSACTIONS
+* JAVA FOR Testers
+* Spring Ready
+* kursgita.pl
+* SQL Server – Transactions
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
