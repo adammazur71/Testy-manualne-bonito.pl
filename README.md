@@ -12,6 +12,10 @@ the requirements and deliver possibly best results.
 * Jira
 * TestLink
 * GitHub
+* Docker
+* Maven
+* POSTMAN
+* LINUX BASICS
 ## TECH SKIILS
 * SOFTWARE TESTING
 * CREATING TEST SCENARIOS AND TEST CASES
@@ -20,12 +24,8 @@ the requirements and deliver possibly best results.
 * HTML, CSS
 * GIT, GITLAB
 * SQL
-* POSTMAN
-* MAVEN
-* DOCKER
 * INTEGRATION TESTS, UNIT TESTS, MOCKITO, WIREMOCK, JUNIT
 * TEST AUTOMATION BASICS
-* LINUX BASICS
 * SQL
 * SCRUM
 ## CERTIFICATES
