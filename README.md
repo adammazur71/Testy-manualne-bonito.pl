@@ -33,7 +33,7 @@ the requirements and deliver possibly best results.
 * ISTQB FL
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
-* JAVA FOR Testers
+* JAVA for Testers
 * Spring Ready
 * kursgita.pl
 * SQL Server – Transactions
