@@ -75,4 +75,4 @@ the requirements and deliver possibly best results.
 * [Formularz do zmiany hasła przez reset hasła nie zamyka się po zmianie hasła](https://docs.google.com/document/d/1E83PT6xqY8EwtuOVi1-RpdlcEw2r_Jtw/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
 ## MY REPORT FOR BONITO.LP
 * [Report PDF](https://drive.google.com/file/d/1xoDG-_XmZR9golFspD_s-3CAuhssPypq/view?usp=sharing)
-* [Report Excell](https://docs.google.com/spreadsheets/d/13nK6m9SnBxYkWBmM1Z6Y5ruKFRDmkkoC/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
+* [Report Excel](https://docs.google.com/spreadsheets/d/13nK6m9SnBxYkWBmM1Z6Y5ruKFRDmkkoC/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
