@@ -73,6 +73,6 @@ the requirements and deliver possibly best results.
 * [Formularz do zmiany hasła w profilu użytkownika przyjmuje słabe hasło](https://docs.google.com/document/d/12mx4l90PHb4HkmwzH6B1lq7zWTspfvc-/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
 * [Formularz do zmiany hasła przez reset hasła przyjmuje słabe hasło](https://docs.google.com/document/d/1Eb1yg8dVdfkBxYWY6TzX5-5dbeI3Tvxi/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
 * [Formularz do zmiany hasła przez reset hasła nie zamyka się po zmianie hasła](https://docs.google.com/document/d/1E83PT6xqY8EwtuOVi1-RpdlcEw2r_Jtw/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
-## MY REPORT FOR BONITO.LP
+## MY REPORT FOR BONITO.PL
 * [Report PDF](https://drive.google.com/file/d/1xoDG-_XmZR9golFspD_s-3CAuhssPypq/view?usp=sharing)
 * [Report Excel](https://docs.google.com/spreadsheets/d/13nK6m9SnBxYkWBmM1Z6Y5ruKFRDmkkoC/edit?usp=sharing&ouid=117443966968316837750&rtpof=true&sd=true)
